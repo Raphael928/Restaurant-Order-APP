@@ -175,7 +175,7 @@ namespace RestaurantOrder
             foreach (var opt in sorted)
             {
                 if (opt.Description != "error")
-                    strReturn += opt.Description + ", ";
+                    strReturn += opt.Description + ",";
                 else
                 {
                     strReturn += opt.Description + ",";

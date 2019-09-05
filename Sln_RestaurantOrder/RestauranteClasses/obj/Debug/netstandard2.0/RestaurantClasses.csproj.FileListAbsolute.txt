@@ -15,3 +15,4 @@ C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\
 C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.AssemblyInfo.cs
 C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.dll
 C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.pdb
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.csprojAssemblyReference.cache
