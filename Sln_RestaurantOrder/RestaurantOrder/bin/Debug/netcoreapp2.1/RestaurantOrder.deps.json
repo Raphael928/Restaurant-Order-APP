@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RestaurantOrder/1.0.0": {
+        "dependencies": {
+          "RestaurantClasses": "1.0.0"
+        },
+        "runtime": {
+          "RestaurantOrder.dll": {}
+        }
+      },
+      "RestaurantClasses/1.0.0": {
+        "runtime": {
+          "RestaurantClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestaurantOrder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestaurantClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

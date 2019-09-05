@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestaurantOrder\\RestaurantOrder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestauranteClasses\\RestaurantClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestauranteClasses\\RestaurantClasses.csproj",
+        "projectName": "RestaurantClasses",
+        "projectPath": "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestauranteClasses\\RestaurantClasses.csproj",
+        "packagesPath": "C:\\Users\\Votogames.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestauranteClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Votogames.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestaurantOrder\\RestaurantOrder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestaurantOrder\\RestaurantOrder.csproj",
+        "projectName": "RestaurantOrder",
+        "projectPath": "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestaurantOrder\\RestaurantOrder.csproj",
+        "packagesPath": "C:\\Users\\Votogames.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestaurantOrder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Votogames.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestauranteClasses\\RestaurantClasses.csproj": {
+                "projectPath": "C:\\Users\\Votogames.com\\Desktop\\RestaurantOrder\\Sln_RestaurantOrder\\RestauranteClasses\\RestaurantClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\bin\Debug\netstandard2.0\RestaurantClasses.deps.json
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\bin\Debug\netstandard2.0\RestaurantClasses.dll
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\bin\Debug\netstandard2.0\RestaurantClasses.pdb
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.csproj.CoreCompileInputs.cache
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.AssemblyInfoInputs.cache
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.AssemblyInfo.cs
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.dll
+C:\Users\Votogames.com\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.pdb
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\bin\Debug\netstandard2.0\RestaurantClasses.deps.json
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\bin\Debug\netstandard2.0\RestaurantClasses.dll
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\bin\Debug\netstandard2.0\RestaurantClasses.pdb
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.csprojAssemblyReference.cache
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.csproj.CoreCompileInputs.cache
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.AssemblyInfoInputs.cache
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.AssemblyInfo.cs
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.dll
+C:\Users\rgsilva\Desktop\RestaurantOrder\Sln_RestaurantOrder\RestauranteClasses\obj\Debug\netstandard2.0\RestaurantClasses.pdb
